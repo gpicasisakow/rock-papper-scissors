@@ -1,1 +1,1 @@
-# rock-papper-scissors
+This is a programm based on the clasic game of rock, paper and scissors, developed with the knowledge of javascript I got as far.
